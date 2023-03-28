@@ -26,7 +26,7 @@ Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LIC
 
 ## Créditos
 
-Este projeto foi desenvolvido por [seu nome] e usa os seguintes recursos:
+Este projeto foi desenvolvido por João paulo e usa os seguintes recursos:
 
 - libGDX - Uma biblioteca de desenvolvimento de jogos multiplataforma em Java
 
